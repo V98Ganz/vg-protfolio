@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/V98Ganz/vg-protfolio/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/V98Ganz/vg-protfolio/static/js/main.01694fd4.chunk.js",
+    "main.js.map": "/V98Ganz/vg-protfolio/static/js/main.01694fd4.chunk.js.map",
+    "runtime-main.js": "/V98Ganz/vg-protfolio/static/js/runtime-main.fb70be75.js",
+    "runtime-main.js.map": "/V98Ganz/vg-protfolio/static/js/runtime-main.fb70be75.js.map",
+    "static/js/2.12b5e834.chunk.js": "/V98Ganz/vg-protfolio/static/js/2.12b5e834.chunk.js",
+    "static/js/2.12b5e834.chunk.js.map": "/V98Ganz/vg-protfolio/static/js/2.12b5e834.chunk.js.map",
+    "static/js/3.4fa897c4.chunk.js": "/V98Ganz/vg-protfolio/static/js/3.4fa897c4.chunk.js",
+    "static/js/3.4fa897c4.chunk.js.map": "/V98Ganz/vg-protfolio/static/js/3.4fa897c4.chunk.js.map",
+    "index.html": "/V98Ganz/vg-protfolio/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/V98Ganz/vg-protfolio/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.12b5e834.chunk.js.LICENSE.txt": "/V98Ganz/vg-protfolio/static/js/2.12b5e834.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/V98Ganz/vg-protfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb70be75.js",
+    "static/js/2.12b5e834.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.01694fd4.chunk.js"
+  ]
+}
